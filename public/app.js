@@ -16,6 +16,12 @@ const CATS_ARRAY = [
     image: "http://66.media.tumblr.com/7c5784ea89369c780e782bf10c60315a/tumblr_npb0hlYwhV1u63jaco1_1280.jpg",
     image_width: "400"
   },
+
+  { name: "Twitch",
+    food: "Small furry things",
+    image: "https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif",
+    image_width: "400"  
+  }
 ];
 
 const addCat = function (cat) {
